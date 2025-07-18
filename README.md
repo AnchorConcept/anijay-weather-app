@@ -22,7 +22,7 @@ It fetches live weather data using the OpenWeatherMap API.
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](anijay-weatherapp.netlify.app) *(update this link after deployment)*
+👉 [Click here to view the live site](anijay-weatherapp.netlify.app)
 
 ## 📂 Project Setup
 
